@@ -1,6 +1,6 @@
 ﻿namespace TodoListService.Models
 {
-    public class TodoItem
+    public class TD
     {
         public int Id { get; set; }
         public string Title { get; set; }
